@@ -1,0 +1,9 @@
+/** @format */
+@font-face {
+  font-family: "Revenue";
+  src: url("/assets/font/revenue.ttf") format("truetype");
+}
+
+.ni-font {
+  font-family: "Revenue";
+}
