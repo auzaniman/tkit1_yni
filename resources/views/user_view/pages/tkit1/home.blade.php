@@ -49,7 +49,7 @@ TKIT1 Nurul 'Ilmi Tenggarong
         <div class="col-lg-6">
           <span class="badge bg-danger mb-3">Visi TKIT1</span>
           <h2 class="text-dark mb-0">Visi Sekolah Kami</h2>
-          <p class="lead">"Terwujudnya sekolah Islam Terpadu yang mencetak generasi unggul, bersih, sehat dan berkarakter berdasarkan IMTAQ dan IPTEK." </p>
+          <p class="lead">"Menjadi Taman Bermain dan Belajar Yang Menyenangkan Dengan Pembiasaan Nilai-Nilai islami." </p>
         </div>
       </div>
     </div>
@@ -62,14 +62,14 @@ TKIT1 Nurul 'Ilmi Tenggarong
         <div class="col-lg-4 ms-auto me-auto p-lg-4 mt-lg-0 mt-4 mb-5 mb-lg-0">
           <div class="rotating-card-container">
             <div class="card card-rotate card-background card-background-mask-success shadow-success mt-md-0 mt-5">
-              <div class="front front-background" style="background-image: url(frontend/assets/img/TKIT1/3.jpeg); background-size: cover;">
+              <div class="front front-background" style="background-image: url(frontend/assets/img/TKIT1/3.jpg); background-size: cover;">
                 <div class="card-body py-7 text-center">
                   <i class="material-icons text-white text-4xl my-3">touch_app</i>
                   <h3 class="text-white">Jelajahi <br /> TKIT1 Nurul 'Ilmi</h3>
                   <p class="text-white opacity-8">Mengenal program dan bidang TKIT1 dalam pengembangan didunia pendidikan.</p>
                 </div>
               </div>
-              <div class="back back-background" style="background-image: url(frontend/assets/img/TKIT1/2.jpeg); background-size: cover;">
+              <div class="back back-background" style="background-image: url(frontend/assets/img/TKIT1/2.jpg); background-size: cover;">
                 <div class="card-body pt-7 text-center">
                   <h3 class="text-white">Jelajahi TKIT1</h3>
                   <p class="text-white opacity-8">Mengenal program dan bidang TKIT1 dalam pengembangan didunia pendidikan.</p>
@@ -83,28 +83,21 @@ TKIT1 Nurul 'Ilmi Tenggarong
             <div class="col-md-6">
               <div class="info">
                 <i class="material-icons text-gradient text-danger text-3xl">flip_to_front</i>
-                <h5 class="font-weight-bolder mt-2">Pendidikan Islam Terpadu</h5>
-                <p class="pe-5">Menerapkan sistem pendidikan Islam Terpadu yang mengintegrasikan ayat-ayat qouliyah dan kauniyah, Iman dan ‘Amal, Ruhiyah dan Jasadiyah dalam lingkungan pendidikan yang Islami, Sehat, Bersih, aman dan nyaman.</p>
-              </div>
-            </div>
-            <div class="col-md-6">
-              <div class="info">
-                <i class="material-icons text-gradient text-danger text-3xl">flip_to_front</i>
-                <h5 class="font-weight-bolder mt-2">Pendidikan Karakter, Berwawasan dan Sehat</h5>
-                <p class="pe-3">Membiasakan pola hidup Jujur, Disiplin dan Bertanggung Jawab, Membiasakan siswa untuk bersikap sopan santun (Adab Islami), Membiasakan pola hidup bersih serta Peduli Terhadap Pengendalian Pencemaran dan kerusakan juga Pelestarian lingkungan hidup, sehingga tercipta sekolah berwawasan, dan berbudaya lingkungan yang sehat.</p>
+                <h5 class="font-weight-bolder mt-2">Pendidikan Karakter Dasar Islam</h5>
+                <p class="pe-3">Menanmkan Karakter Dasar Islami Dengan Membiasakan Praktek Ajaran Islami Sesuai Perkembangan Usia Anak.</p>
               </div>
             </div>
           </div>
           <div class="row justify-content-start mt-3">
             <div class="col-md-6 mt-2">
               <i class="material-icons text-gradient text-danger text-3xl">flip_to_front</i>
-              <h5 class="font-weight-bolder mt-3">Pendidikan Pusat Inovasi dan Inspirasi</h5>
-              <p class="pe-5">Menyelenggarakan pendidikan yang menjadi pusat inovasi dan inspirasi pengembangan mutu pendidikan.</p>
+              <h5 class="font-weight-bolder mt-3">Kondisi Bermain Yang Edukatif</h5>
+              <p class="pe-5">Menciptakan Kondisi Bermain Yang Edukatif.</p>
             </div>
             <div class="col-md-6 mt-2">
               <i class="material-icons text-gradient text-danger text-3xl">flip_to_front</i>
-              <h5 class="font-weight-bolder mt-3">Pendidikan Tanah Air</h5>
-              <p class="pe-5">Menanamkan rasa cinta tanah air dan bangsa.</p>
+              <h5 class="font-weight-bolder mt-3">Memperbaiki dan MEningkatkan Tumbuh Kembang Anak</h5>
+              <p class="pe-5">Membangun Kerjasama Dengan Orangtua Siswa Dalam Rangka Memperbaiki Dan Meningkatkan Tumbuh Kembang Anak.</p>
             </div>
           </div>
         </div>
@@ -662,7 +655,7 @@ TKIT1 Nurul 'Ilmi Tenggarong
             <div class="col-md-6">
               <a href="">
                 <div class="card move-on-hover">
-                  <img class="w-100" src="{{ url('frontend/assets/img/TKIT1/1.jpeg')}}" alt="aboutus">
+                  <img class="w-100" src="{{ url('frontend/assets/img/TKIT1/1.jpg')}}" alt="aboutus">
                 </div>
                 <div class="mt-2 ms-2">
                   <h6 class="mb-0">-</h6>
@@ -672,7 +665,7 @@ TKIT1 Nurul 'Ilmi Tenggarong
             <div class="col-md-6 mt-md-0 mt-5">
               <a href="">
                 <div class="card move-on-hover">
-                  <img class="w-100" src="{{ url('frontend/assets/img/TKIT1/2.jpeg')}}" alt="contacus">
+                  <img class="w-100" src="{{ url('frontend/assets/img/TKIT1/2.jpg')}}" alt="contacus">
                 </div>
                 <div class="mt-2 ms-2">
                   <h6 class="mb-0">-</h6>
@@ -682,7 +675,7 @@ TKIT1 Nurul 'Ilmi Tenggarong
             <div class="col-md-6 mt-md-3 mt-6">
               <a href="">
                 <div class="card move-on-hover">
-                  <img class="w-100" src="{{ url('frontend/assets/img/TKIT1/3.jpeg')}}" alt="signin">
+                  <img class="w-100" src="{{ url('frontend/assets/img/TKIT1/3.jpg')}}" alt="signin">
                 </div>
                 <div class="mt-2 ms-2">
                   <h6 class="mb-0">-</h6>
@@ -692,7 +685,7 @@ TKIT1 Nurul 'Ilmi Tenggarong
             <div class="col-md-6 mt-md-3 mt-6">
               <a href="">
                 <div class="card move-on-hover">
-                  <img class="w-100" src="{{ url('frontend/assets/img/TKIT1/4.jpeg')}}" alt="author">
+                  <img class="w-100" src="{{ url('frontend/assets/img/TKIT1/4.jpg')}}" alt="author">
                 </div>
                 <div class="mt-2 ms-2">
                   <h6 class="mb-0">-</h6>
@@ -923,7 +916,7 @@ TKIT1 Nurul 'Ilmi Tenggarong
         </div>
         <div class="col-md-5 col-12 my-auto">
           <a href="https://www.creative-tim.com/product/material-kit-pro?ref=index-mk2">
-            <img class="w-100 border-radius-lg shadow-lg" src="{{ url('frontend/assets/img/TKIT1/1.jpeg')}}" alt="Product Image">
+            <img class="w-100 border-radius-lg shadow-lg" src="{{ url('frontend/assets/img/TKIT1/1.jpg')}}" alt="Product Image">
           </a>
         </div>
       </div>
