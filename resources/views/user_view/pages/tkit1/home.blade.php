@@ -665,7 +665,7 @@ TKIT1 Nurul 'Ilmi Tenggarong
             <div class="col-md-6 mt-md-0 mt-5">
               <a href="">
                 <div class="card move-on-hover">
-                  <img class="w-100" src="{{ url('frontend/assets/img/TKIT1/2.jpg')}}" alt="contacus">
+                  <img class="w-100" src="{{ url('frontend/assets/img/TKIT1/5.jpg')}}" alt="contacus">
                 </div>
                 <div class="mt-2 ms-2">
                   <h6 class="mb-0">-</h6>
@@ -719,7 +719,7 @@ TKIT1 Nurul 'Ilmi Tenggarong
               <div class="col-lg-4 col-md-6 col-12 mt-n5">
                 <a href="javascript:;">
                   <div class="p-3 pe-md-0">
-                    <img class="w-100 border-radius-md shadow-lg" src="{{ url('frontend/assets/img/user.jpg')}}" alt="image">
+                    <img class="w-100 border-radius-md shadow-lg" src="{{ url('frontend/assets/img/TKIT1/2.jpg')}}" alt="image">
                   </div>
                 </a>
               </div>
